@@ -16,13 +16,13 @@ This Python script is designed to download map tiles from a specified map tile s
 Before using this script, ensure you have the following dependencies installed:
 
 - Python 3.x
-- 'concurrent.futures'
-- 'pygeotile'
+- `concurrent.futures`
+- `pygeotile`
 
-You can install the required packages using 'pip':
+You can install the required packages using `pip`:
 
-'''bash
-pip install concurrent.futures pygeotile
+  ```bash
+  pip install concurrent.futures pygeotile
 
 ## Usage
 
