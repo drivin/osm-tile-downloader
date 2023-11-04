@@ -21,11 +21,12 @@ Before using this script, ensure you have the following dependencies installed:
 
 You can install the required packages using `pip`:
 
-  ```bash
-  pip install concurrent.futures pygeotile
+   ```bash
+   pip install concurrent.futures pygeotile
+   ```
+
 
 ## Usage
-
 
 1. Clone or download this repository to your local machine.
 
@@ -35,6 +36,7 @@ You can install the required packages using `pip`:
 
    ```bash
    python tile_downloader.py
+   ```
 
 The script will start downloading map tiles for the specified geographical area and zoom level range. Downloaded tiles will be saved in the "tiles" folder (or the folder you specified in the configuration).
 
